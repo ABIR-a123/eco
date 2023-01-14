@@ -1,0 +1,23 @@
+@media only screen and (max-width:768px) {
+    .nav-link::after{
+       
+        height: 2px;
+        width: 50px;       
+      }
+      
+#hero{
+
+    
+   
+  
+  margin-top: 20px;
+  height: 97vh;
+  width: 100vh;
+  background-position: bottom 0  left 90%  ;
+    
+  }
+       
+      .left{
+        display: none;
+      }
+  }
